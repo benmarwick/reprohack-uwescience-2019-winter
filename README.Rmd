@@ -1,19 +1,22 @@
 ---
 output: github_document
 params: 
-  title: "Awesome conference / organiser"
-  room_location: "Ada Lovelace Seminar Room, Dept. of Computer Science"
-  address: "The University of Sheffield, 211 Portobello, Sheffield S1 4DP"
-  date: "27th June 2019"
+  title: "UW eScience Reprohack / organised by the Reproducible Research Special Interest Group"
+  room_location: "UW eScience Institute"
+  address: "WRF Data Science Studio, UW Physics/Astronomy Tower, 6th Floor, Campus Box 351570, 3910 15th Ave NE, Seattle, WA 98195 University of Washington, Seattle, WA"
+  date: "DD MM 2019"
   time: "9.30am-15:30pm"
   bannerurl: "https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png"
-  latitude: 53.38119
-  longitude: -1.48036
+  latitude: 53.38119 eScience Institute
+WRF Data Science Studio, UW Physics/Astronomy Tower, 6th Floor, Campus Box 351570, 3910 15th Ave NE, Seattle, WA 98195
+(206) 685-5177
+  latitude: 47.6533595
+  longitude:-122.3116037
   registration_url: null
-  hackpad_url: https://hackmd.io/link-to-copy-of-hackpad/edit
+  hackpad_url: https://hackmd.io/5JDn2zsPRyynXhRkRat_eA?edit
   submission_url: https://link-to-submissionform
   feedback_url: https://link-to-feedbackform
-  paper_shinyapp_url: https://youraccount.shinyapps.io/reprohack-awesome-conf
+  paper_shinyapp_url: https://benmarwick.shinyapps.io/reprohack-awesome-conf
   reprohack_repo_url: https://github.com/your_account/reprohack-location-ISOdate
 ---
 
