@@ -7,17 +7,14 @@ params:
   date: "DD MM 2019"
   time: "9.30am-15:30pm"
   bannerurl: "https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png"
-  latitude: 53.38119 eScience Institute
-WRF Data Science Studio, UW Physics/Astronomy Tower, 6th Floor, Campus Box 351570, 3910 15th Ave NE, Seattle, WA 98195
-(206) 685-5177
   latitude: 47.6533595
-  longitude:-122.3116037
+  longitude: -122.3116037
   registration_url: null
   hackpad_url: https://hackmd.io/5JDn2zsPRyynXhRkRat_eA?edit
-  submission_url: https://link-to-submissionform
-  feedback_url: https://link-to-feedbackform
+  submission_url: https://docs.google.com/forms/d/e/1FAIpQLSeEzwJzgpIUwlQ1t-4rKcvAOjPmxi9vrCq_3m2PCJ5Iu3MauA/viewform?usp=sf_link
+  feedback_url: hhttps://docs.google.com/forms/d/e/1FAIpQLSd8VoB5iDmQ1r5drnCsakz8CBUoDM_y5kelFlhaBqGx9C0vmQ/viewform?usp=sf_link
   paper_shinyapp_url: https://benmarwick.shinyapps.io/reprohack-awesome-conf
-  reprohack_repo_url: https://github.com/your_account/reprohack-location-ISOdate
+  reprohack_repo_url: https://github.com/benmarwick/reprohack-uwescience-2019-winter
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -91,7 +88,7 @@ Join us at the hack to **dig into exciting science**, learn more about **reprodu
 
 This is the master repo of the hack. We'll collect information on the teams and projects through [issues](`r paste0(params$reprohack_repo_url, "/issues/")`) in this repo. We'll track of discussions and collaborative notes on the event [**hackpad**](`r params$hackpad_url`)
 
-As all Carpentries events, we strive to make this event open and inclusive to all. As such the event is governed by the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and you should read it before participating. By participating, you are expected to uphold this code.
+As all eScience events, we strive to make this event open and inclusive to all. As such the event is governed by the [eScience Code of Conduct](https://escience.washington.edu/code-of-conduct) and you should read it before participating. By participating, you are expected to uphold this code.
 
 
 

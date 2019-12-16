@@ -1,0 +1,13 @@
+name: reprohack-uwescience-2019-winter
+title: reprohack-uwescience-2019-winter
+username:
+account: ben-marwick
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1602876
+bundleId: 2671305
+url: https://ben-marwick.shinyapps.io/reprohack-uwescience-2019-winter/
+when: 1576487672.99766
+asMultiple: TRUE
+asStatic: FALSE
+additionalFiles: .secrets/6c91f3dd95c2217959d38f926b96d7bb_bmarwick@uw.edu|.secrets/cd26ed5dc626f11802a652e81d02762e_bmarwick@uw.edu|reprohack-banner.png
